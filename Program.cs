@@ -24,7 +24,7 @@ namespace Array_Multiplication_in_C_.pptx
                 array[i] = num1 * (i + 1);
             }
             
-            Console.WriteLine($"Multiplication Table for {num}: ");
+            Console.WriteLine($"Multiplication Table for {num1}: ");
             for (int i = 0;i < length; i++)
             {
                Console.WriteLine($"{array[i]}"); 
